@@ -1,0 +1,1566 @@
+{
+  "media": [
+    {
+      "id": 0,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/1.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": true,
+      "sale": true,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/2.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": false,
+      "sale": true,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/3.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "sale": false,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/4.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "sale": false,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/5.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "sale": true,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/6.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "sale": true,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/2.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/3.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "sale": false,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/1.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": true,
+      "sale": true,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/2.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": false,
+      "sale": true,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/3.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "sale": false,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/4.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "sale": false,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/5.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "sale": true,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/6.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "sale": true,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/2.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/3.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "sale": false,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    }
+  ],
+  "new": [
+    {
+      "id": 0,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/1.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": true,
+      "sale": true,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/2.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": false,
+      "sale": true,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/3.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "sale": false,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/4.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "sale": false,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/5.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "sale": true,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/6.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "sale": true,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/2.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/3.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "sale": false,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/1.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": true,
+      "sale": true,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/2.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": false,
+      "sale": true,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/3.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "sale": false,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/4.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "sale": false,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/5.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "sale": true,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/6.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "sale": true,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/2.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "imageUrl": "http://kg.ronishop.ru/test/tilek/santes/img/3.jpg",
+      "title": "Вечернее платье",
+      "sizes": "42-50",
+      "price": 1365,
+      "category": 0,
+      "sale": false,
+      "color": [
+        {
+          "id": 1,
+          "src": "#73A39D"
+        },
+        {
+          "id": 2,
+          "src": "#84CC4C"
+        },
+        {
+          "id": 3,
+          "src": "#B5A8A1"
+        },
+        {
+          "id": 4,
+          "src": "#AB844A"
+        },
+        {
+          "id": 5,
+          "src": "#6977F0"
+        },
+        {
+          "id": 6,
+          "src": "#FFFFFF"
+        },
+        {
+          "id": 7,
+          "src": "#141414"
+        },
+        {
+          "id": 8,
+          "src": "#FF0000"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 0,
+      "phone": "996707040578"
+    }
+  ],
+  "inews": [
+    {
+      "id": 1,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n1.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    },
+    {
+      "id": 2,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n2.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    },
+    {
+      "id": 3,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n3.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    },
+    {
+      "id": 4,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n6.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    },
+    {
+      "id": 5,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n5.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    },
+    {
+      "id": 6,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n6.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    },
+    {
+      "id": 7,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n7.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    },
+    {
+      "id": 8,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n1.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    },
+    {
+      "id": 9,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n2.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    },
+    {
+      "id": 10,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n3.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    },
+    {
+      "id": 11,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n1.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    },
+    {
+      "id": 12,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n5.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    },
+    {
+      "id": 13,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n6.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    },
+    {
+      "id": 14,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n7.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    },
+    {
+      "id": 15,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n6.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    },
+    {
+      "id": 16,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n7.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    },
+    {
+      "id": 17,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n1.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    },
+    {
+      "id": 18,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n2.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    },
+    {
+      "id": 19,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n3.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    },
+    {
+      "id": 20,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n1.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    },
+    {
+      "id": 21,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n5.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    },
+    {
+      "id": 22,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n6.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    },
+    {
+      "id": 23,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/n7.jpg",
+      "title": "lorem birdeme",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
+    }
+  ],
+  "collection": [
+    {
+      "id": 1,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/с1.jpg",
+      "title": "Коллекция лето"
+    },
+    {
+      "id": 2,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/с2.jpg",
+      "title": "Коллекция зима"
+    },
+    {
+      "id": 3,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/с3.jpg",
+      "title": "Коллекция лето"
+    },
+    {
+      "id": 4,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/с4.jpg",
+      "title": "Коллекция лето"
+    },
+    {
+      "id": 5,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/с2.jpg",
+      "title": "Коллекция лето"
+    },
+    {
+      "id": 6,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/с3.jpg",
+      "title": "Коллекция лето"
+    },
+    {
+      "id": 7,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/с1.jpg",
+      "title": "Коллекция лето"
+    },
+    {
+      "id": 8,
+      "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/с4.jpg",
+      "title": "Коллекция лето"
+    }
+  ]
+}

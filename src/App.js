@@ -1,24 +1,35 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useContext } from 'react';
+import { CustomContext } from './Context';
+import { Routes, Route, Link } from 'react-router-dom';
+import Footer from './components/footer/Footer';
+import Header from './components/Header/Header';
+import Home from './components/Home/Home'
+import { News } from './page/News/News'
+import { About } from './page/About/About'
+import "./app.css"
+import Collegtion from './page/Collegtion/Collegtion';
+import { Product } from './components/product/Product.jsx';
+import Korzina from './components/Home/Korzina/Korzina';
+
+
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+
+      <Header />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/About" element={<About />} />
+        <Route path="/News" element={<News />} />
+        <Route path="/Collegtion" element={<Collegtion />} />
+        <Route path='/Product/:id' element={<Product />} />
+        <Route path='/Korzina' element={<Korzina />} />
+      </Routes>
+      <Footer />
+    </>
   );
 }
 

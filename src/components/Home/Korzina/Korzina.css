@@ -1,0 +1,41 @@
+.basket_inner {
+    padding: 11px 0px;
+}
+
+.baster {
+    background: #ECECEC;
+}
+
+.basket_img {
+    width: 112px;
+    height: 142px;
+}
+
+.basket_cart {
+
+    column-gap: 16px;
+    display: flex;
+    padding: 12px;
+    width: 768px;
+    height: 166px;
+    position: relative;
+    background: #FFFFFF;
+}
+
+.basker_delete {
+    width: 14px;
+    height: 14px;
+    background: url(../../../img/delete.png) no-repeat;
+    position: absolute;
+    right: 17px;
+    top: 17px;
+}
+
+.basket_color {
+    width: 14px;
+    height: 14px;
+}
+
+.basket_color-item {
+    margin-top: 20px;
+}

@@ -1,0 +1,63 @@
+.collection {
+    background: #ECECEC;
+}
+
+.coll_img-g {
+    width: 286px;
+    height: 330px;
+    cursor: pointer;
+    border: none;
+}
+
+
+
+.coll_img_title {
+    bottom: 48px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #fff;
+}
+
+.coll__card {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    cursor: pointer;
+
+}
+
+.coll__link {
+    font-size: 14px;
+    font-weight: 500;
+    padding: 14px 0px;
+    background: #1D1D1B url(../../img/arrow_w.png) no-repeat;
+    background-position: 75% 50%;
+    width: 286px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+
+.coll__card .coll__link:hover {
+    font-size: 14px;
+    font-weight: 500;
+    padding: 14px 0px;
+    background: #fff url(../../img/arrow_b.png) no-repeat;
+    background-position: 75% 50%;
+    width: 286px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #1D1D1B;
+}
+
+.coll-item {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
