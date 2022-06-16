@@ -1,22 +1,22 @@
 import React from "react";
 import './footer.css'
-import { Routes, Route, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import logosvg from '../../img/footerlogo.svg'
-import call from '../../img/call-phobe.png'
-import sms from '../../img/sms.png'
-import instagram from '../../img/instagram.png'
-import telegram from '../../img/telegram.png'
-import whatsapp from '../../img/whatsapp.png'
+import call from '../../img/call.svg'
+import sms from '../../img/sms.svg'
+import instagram from '../../img/instagram.svg'
+import telegram from '../../img/footer-teleg.svg'
+import whatsapp from '../../img/footer-whats.svg'
 
 
-const Footer = ({ call, img }) => {
+const Footer = () => {
     return (
         <div className="footer">
             <div className="container">
                 <div className="footer_inner">
-                    <Link to={'/'}>
-                        <img src={logosvg} alt="Zeonlogo" className="footer__inner__logo" />
-                    </Link>
+
+                    <img src={logosvg} alt="Zeonlogo" className="footer__inner__logo" />
+
                     <div className="footer__inner__card">
                         <h5 className="footer__card__title">Компания</h5>
                         <ul className="footer__list">
@@ -25,11 +25,12 @@ const Footer = ({ call, img }) => {
 
                             </li>
                             <li className="footer__item">
+                                <Link to={"/News"} className="footer__link" >Новости</Link>
 
-                                <a href="" className="footer__link">Новости</a>
                             </li>
                             <li className="footer__item">
-                                <a href="" className="footer__link">Помощь</a>
+                                <Link to={"/News"} className="footer__link" >Помощь</Link>
+
                             </li>
                         </ul>
                     </div>
@@ -37,12 +38,12 @@ const Footer = ({ call, img }) => {
                         <h5 className="footer__card__title">Контакты</h5>
                         <ul className="footer__list">
                             <li className="footer__item">
-                                <img src={img} alt="phone" className="footer__item__logo" />
-                                <a href="" className="footer__link">+{call}</a>
+                                <img src={call} alt="phone" className="footer__item__logo" />
+                                <a href="" className="footer__link">+996 500 123 456</a>
                             </li>
                             <li className="footer__item">
                                 <img src={call} alt="phone" className="footer__item__logo" />
-                                <a href="" className="footer__link">+{call}</a>
+                                <a href="" className="footer__link">+996 500 123 456</a>
                             </li>
                             <li className="footer__item">
                                 <img src={sms} alt="phone" className="footer__item__logo" />

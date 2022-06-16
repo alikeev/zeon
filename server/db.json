@@ -1,14 +1,15 @@
 {
-    "media": [
+    "bestseller": [
         {
             "id": 1,
             "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/1.jpg",
             "title": "Вечернее платье",
             "sizes": "42-50",
             "price": 1365,
-            "category": "Хит продаж",
+            "category": "bestseller",
             "articul": "Платье PL984/dakota",
-            "sale": false,
+            "salePrice": 2700,
+            "sale": "-50%",
             "cardinfo": "За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.  ",
             "color": [
                 "#73A39D",
@@ -27,9 +28,9 @@
             "title": "Легкий летний платье",
             "sizes": "42-54",
             "price": 1365,
-            "category": "summer",
+            "category": "bestseller",
             "articul": "Платье PL984/dakota",
-            "sale": true,
+            "cardinfo": "За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.  ",
             "color": [
                 "#73A39D",
                 "#84CC4C",
@@ -47,9 +48,8 @@
             "title": "Двойка классика",
             "sizes": "42-50",
             "price": 1365,
-            "category": "winter",
+            "category": "bestseller",
             "articul": "Платье PL984/dakota",
-            "sale": false,
             "color": [
                 "#73A39D",
                 "#84CC4C",
@@ -67,9 +67,10 @@
             "title": "Летний сарафан",
             "sizes": "42-56",
             "price": 1365,
-            "category": "summer",
+            "sale": "-50%",
+            "category": "bestseller",
+            "salePrice": 2700,
             "articul": "Платье PL984/dakota",
-            "sale": false,
             "color": [
                 "#73A39D",
                 "#84CC4C",
@@ -87,9 +88,8 @@
             "title": "Вечернее платье",
             "sizes": "42-50",
             "price": 1365,
-            "category": "Хит продаж",
+            "category": "bestseller",
             "articul": "Платье PL984/dakota",
-            "sale": false,
             "color": [
                 "#73A39D",
                 "#84CC4C",
@@ -107,9 +107,8 @@
             "title": "Летний Кладус",
             "sizes": "42-50",
             "price": 1365,
-            "category": "summer",
+            "category": "bestseller",
             "articul": "Платье PL988/dakota",
-            "sale": true,
             "color": [
                 "#73A39D",
                 "#84CC4C",
@@ -127,7 +126,7 @@
             "title": "Кофта",
             "sizes": "42-50",
             "price": 1365,
-            "category": "Хит продаж",
+            "category": "bestseller",
             "articul": "Платье PL984/dakota",
             "color": [
                 "#73A39D",
@@ -146,9 +145,10 @@
             "title": "Вечернее платье",
             "sizes": "42-50",
             "price": 1365,
-            "category": "summer",
+            "salePrice": 2700,
+            "sale": "-50%",
+            "category": "bestseller",
             "articul": "Платье PL984/dakota",
-            "sale": false,
             "color": [
                 "#73A39D",
                 "#84CC4C",
@@ -166,9 +166,8 @@
             "title": "White-dress",
             "sizes": "42-50",
             "price": 1365,
-            "category": "summer",
+            "category": "bestseller",
             "articul": "Платье PL984/dakota",
-            "sale": true,
             "color": [
                 "#73A39D",
                 "#84CC4C",
@@ -186,9 +185,8 @@
             "title": "Вечернее платье",
             "sizes": "42-50",
             "price": 1365,
-            "category": "Хит продаж",
+            "category": "bestseller",
             "articul": "Платье PL984/dakota",
-            "sale": true,
             "color": [
                 "#73A39D",
                 "#84CC4C",
@@ -206,9 +204,8 @@
             "title": "Ветровка",
             "sizes": "42-50",
             "price": 3100,
-            "category": "winter",
+            "category": "bestseller",
             "articul": "Платье PL984/dakota",
-            "sale": false,
             "color": [
                 "#73A39D",
                 "#84CC4C",
@@ -226,9 +223,8 @@
             "title": "Летний Rich Broun",
             "sizes": "42-50",
             "price": 2365,
-            "category": "summer",
+            "category": "bestseller",
             "articul": "Платье PL984/dakota",
-            "sale": false,
             "color": [
                 "#73A39D",
                 "#84CC4C",
@@ -246,9 +242,8 @@
             "title": "Вечернее платье",
             "sizes": "42-50",
             "price": 1365,
-            "category": "Хит продаж",
+            "category": "bestseller",
             "articul": "Платье PL984/dakota",
-            "sale": true,
             "color": [
                 "#73A39D",
                 "#84CC4C",
@@ -266,9 +261,8 @@
             "title": "Вечернее платье",
             "sizes": "42-50",
             "price": 1365,
-            "category": "summer",
+            "category": "bestseller",
             "articul": "Платье PL984/dakota",
-            "sale": true,
             "color": [
                 "#73A39D",
                 "#84CC4C",
@@ -286,7 +280,7 @@
             "title": "Вечернее платье",
             "sizes": "42-50",
             "price": 1365,
-            "category": "Зима",
+            "category": "bestseller",
             "articul": "Платье PL984/dakota",
             "color": [
                 "#73A39D",
@@ -305,7 +299,7 @@
             "title": "Вечернее платье",
             "sizes": "42-50",
             "price": 1365,
-            "category": "winter",
+            "category": "bestseller",
             "articul": "Платье PL984/dakota",
             "sale": false,
             "color": [
@@ -318,820 +312,6 @@
                 "#141414",
                 "#FF0000"
             ]
-        },
-        {
-            "id": 17,
-            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/4.jpg",
-            "title": "Вечернее платье",
-            "sizes": "42-50",
-            "price": 1365,
-            "category": "summer",
-            "articul": "Платье PL984/dakota",
-            "sale": false,
-            "color": [
-                "#73A39D",
-                "#84CC4C",
-                "#B5A8A1",
-                "#AB844A",
-                "#6977F0",
-                "#FFFFFF",
-                "#141414",
-                "#FF0000"
-            ]
-        },
-        {
-            "id": 18,
-            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
-            "title": "Вечернее платье",
-            "sizes": "42-50",
-            "price": 1365,
-            "category": "winter",
-            "articul": "Платье PL984/dakota",
-            "sale": false,
-            "color": [
-                "#73A39D",
-                "#84CC4C",
-                "#B5A8A1",
-                "#AB844A",
-                "#6977F0",
-                "#FFFFFF",
-                "#141414",
-                "#FF0000"
-            ]
-        },
-        {
-            "id": 19,
-            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/2.jpg",
-            "title": "Вечернее платье",
-            "sizes": "42-50",
-            "price": 1365,
-            "category": "winter",
-            "articul": "Платье PL984/dakota",
-            "sale": false,
-            "color": [
-                "#73A39D",
-                "#84CC4C",
-                "#B5A8A1",
-                "#AB844A",
-                "#6977F0",
-                "#FFFFFF",
-                "#141414",
-                "#FF0000"
-            ]
-        },
-        {
-            "id": 20,
-            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
-            "title": "Вечернее платье",
-            "sizes": "42-50",
-            "price": 1365,
-            "category": "winter",
-            "articul": "Платье PL984/dakota",
-            "sale": false,
-            "color": [
-                "#73A39D",
-                "#84CC4C",
-                "#B5A8A1",
-                "#AB844A",
-                "#6977F0",
-                "#FFFFFF",
-                "#141414",
-                "#FF0000"
-            ]
-        },
-        {
-            "id": 21,
-            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
-            "title": "Вечернее платье",
-            "sizes": "42-50",
-            "price": 1365,
-            "category": "winter",
-            "articul": "Платье PL984/dakota",
-            "sale": false,
-            "color": [
-                "#73A39D",
-                "#84CC4C",
-                "#B5A8A1",
-                "#AB844A",
-                "#6977F0",
-                "#FFFFFF",
-                "#141414",
-                "#FF0000"
-            ]
-        },
-        {
-            "id": 22,
-            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
-            "title": "Вечернее платье",
-            "sizes": "42-50",
-            "price": 1365,
-            "category": "summer",
-            "articul": "Платье PL984/dakota",
-            "sale": false,
-            "color": [
-                "#73A39D",
-                "#84CC4C",
-                "#B5A8A1",
-                "#AB844A",
-                "#6977F0",
-                "#FFFFFF",
-                "#141414",
-                "#FF0000"
-            ]
-        }
-    ],
-    "new": [
-        {
-            "id": 0,
-            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/1.jpg",
-            "title": "Вечернее платье",
-            "sizes": "42-50",
-            "price": 1365,
-            "category": true,
-            "sale": true,
-            "color": [
-                {
-                    "id": 1,
-                    "src": "#73A39D"
-                },
-                {
-                    "id": 2,
-                    "src": "#84CC4C"
-                },
-                {
-                    "id": 3,
-                    "src": "#B5A8A1"
-                },
-                {
-                    "id": 4,
-                    "src": "#AB844A"
-                },
-                {
-                    "id": 5,
-                    "src": "#6977F0"
-                },
-                {
-                    "id": 6,
-                    "src": "#FFFFFF"
-                },
-                {
-                    "id": 7,
-                    "src": "#141414"
-                },
-                {
-                    "id": 8,
-                    "src": "#FF0000"
-                }
-            ]
-        },
-        {
-            "id": 1,
-            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
-            "title": "Вечернее платье",
-            "sizes": "42-50",
-            "price": 1365,
-            "category": false,
-            "sale": true,
-            "color": [
-                {
-                    "id": 1,
-                    "src": "#73A39D"
-                },
-                {
-                    "id": 2,
-                    "src": "#84CC4C"
-                },
-                {
-                    "id": 3,
-                    "src": "#B5A8A1"
-                },
-                {
-                    "id": 4,
-                    "src": "#AB844A"
-                },
-                {
-                    "id": 5,
-                    "src": "#6977F0"
-                },
-                {
-                    "id": 6,
-                    "src": "#FFFFFF"
-                },
-                {
-                    "id": 7,
-                    "src": "#141414"
-                },
-                {
-                    "id": 8,
-                    "src": "#FF0000"
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
-            "title": "Вечернее платье",
-            "sizes": "42-50",
-            "price": 1365,
-            "category": 0,
-            "sale": false,
-            "color": [
-                {
-                    "id": 1,
-                    "src": "#73A39D"
-                },
-                {
-                    "id": 2,
-                    "src": "#84CC4C"
-                },
-                {
-                    "id": 3,
-                    "src": "#B5A8A1"
-                },
-                {
-                    "id": 4,
-                    "src": "#AB844A"
-                },
-                {
-                    "id": 5,
-                    "src": "#6977F0"
-                },
-                {
-                    "id": 6,
-                    "src": "#FFFFFF"
-                },
-                {
-                    "id": 7,
-                    "src": "#141414"
-                },
-                {
-                    "id": 8,
-                    "src": "#FF0000"
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
-            "title": "Вечернее платье",
-            "sizes": "42-50",
-            "price": 1365,
-            "category": 0,
-            "sale": false,
-            "color": [
-                {
-                    "id": 1,
-                    "src": "#73A39D"
-                },
-                {
-                    "id": 2,
-                    "src": "#84CC4C"
-                },
-                {
-                    "id": 3,
-                    "src": "#B5A8A1"
-                },
-                {
-                    "id": 4,
-                    "src": "#AB844A"
-                },
-                {
-                    "id": 5,
-                    "src": "#6977F0"
-                },
-                {
-                    "id": 6,
-                    "src": "#FFFFFF"
-                },
-                {
-                    "id": 7,
-                    "src": "#141414"
-                },
-                {
-                    "id": 8,
-                    "src": "#FF0000"
-                }
-            ]
-        },
-        {
-            "id": 4,
-            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
-            "title": "Вечернее платье",
-            "sizes": "42-50",
-            "price": 1365,
-            "category": 0,
-            "sale": true,
-            "color": [
-                {
-                    "id": 1,
-                    "src": "#73A39D"
-                },
-                {
-                    "id": 2,
-                    "src": "#84CC4C"
-                },
-                {
-                    "id": 3,
-                    "src": "#B5A8A1"
-                },
-                {
-                    "id": 4,
-                    "src": "#AB844A"
-                },
-                {
-                    "id": 5,
-                    "src": "#6977F0"
-                },
-                {
-                    "id": 6,
-                    "src": "#FFFFFF"
-                },
-                {
-                    "id": 7,
-                    "src": "#141414"
-                },
-                {
-                    "id": 8,
-                    "src": "#FF0000"
-                }
-            ]
-        },
-        {
-            "id": 5,
-            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
-            "title": "Вечернее платье",
-            "sizes": "42-50",
-            "price": 1365,
-            "category": 0,
-            "sale": true,
-            "color": [
-                {
-                    "id": 1,
-                    "src": "#73A39D"
-                },
-                {
-                    "id": 2,
-                    "src": "#84CC4C"
-                },
-                {
-                    "id": 3,
-                    "src": "#B5A8A1"
-                },
-                {
-                    "id": 4,
-                    "src": "#AB844A"
-                },
-                {
-                    "id": 5,
-                    "src": "#6977F0"
-                },
-                {
-                    "id": 6,
-                    "src": "#FFFFFF"
-                },
-                {
-                    "id": 7,
-                    "src": "#141414"
-                },
-                {
-                    "id": 8,
-                    "src": "#FF0000"
-                }
-            ]
-        },
-        {
-            "id": 4,
-            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
-            "title": "Вечернее платье",
-            "sizes": "42-50",
-            "price": 1365,
-            "category": 0,
-            "color": [
-                {
-                    "id": 1,
-                    "src": "#73A39D"
-                },
-                {
-                    "id": 2,
-                    "src": "#84CC4C"
-                },
-                {
-                    "id": 3,
-                    "src": "#B5A8A1"
-                },
-                {
-                    "id": 4,
-                    "src": "#AB844A"
-                },
-                {
-                    "id": 5,
-                    "src": "#6977F0"
-                },
-                {
-                    "id": 6,
-                    "src": "#FFFFFF"
-                },
-                {
-                    "id": 7,
-                    "src": "#141414"
-                },
-                {
-                    "id": 8,
-                    "src": "#FF0000"
-                }
-            ]
-        },
-        {
-            "id": 5,
-            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
-            "title": "Вечернее платье",
-            "sizes": "42-50",
-            "price": 1365,
-            "category": 0,
-            "sale": false,
-            "color": [
-                {
-                    "id": 1,
-                    "src": "#73A39D"
-                },
-                {
-                    "id": 2,
-                    "src": "#84CC4C"
-                },
-                {
-                    "id": 3,
-                    "src": "#B5A8A1"
-                },
-                {
-                    "id": 4,
-                    "src": "#AB844A"
-                },
-                {
-                    "id": 5,
-                    "src": "#6977F0"
-                },
-                {
-                    "id": 6,
-                    "src": "#FFFFFF"
-                },
-                {
-                    "id": 7,
-                    "src": "#141414"
-                },
-                {
-                    "id": 8,
-                    "src": "#FF0000"
-                }
-            ]
-        },
-        {
-            "id": 0,
-            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
-            "title": "Вечернее платье",
-            "sizes": "42-50",
-            "price": 1365,
-            "category": true,
-            "sale": true,
-            "color": [
-                {
-                    "id": 1,
-                    "src": "#73A39D"
-                },
-                {
-                    "id": 2,
-                    "src": "#84CC4C"
-                },
-                {
-                    "id": 3,
-                    "src": "#B5A8A1"
-                },
-                {
-                    "id": 4,
-                    "src": "#AB844A"
-                },
-                {
-                    "id": 5,
-                    "src": "#6977F0"
-                },
-                {
-                    "id": 6,
-                    "src": "#FFFFFF"
-                },
-                {
-                    "id": 7,
-                    "src": "#141414"
-                },
-                {
-                    "id": 8,
-                    "src": "#FF0000"
-                }
-            ]
-        },
-        {
-            "id": 1,
-            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
-            "title": "Вечернее платье",
-            "sizes": "42-50",
-            "price": 1365,
-            "category": false,
-            "sale": true,
-            "color": [
-                {
-                    "id": 1,
-                    "src": "#73A39D"
-                },
-                {
-                    "id": 2,
-                    "src": "#84CC4C"
-                },
-                {
-                    "id": 3,
-                    "src": "#B5A8A1"
-                },
-                {
-                    "id": 4,
-                    "src": "#AB844A"
-                },
-                {
-                    "id": 5,
-                    "src": "#6977F0"
-                },
-                {
-                    "id": 6,
-                    "src": "#FFFFFF"
-                },
-                {
-                    "id": 7,
-                    "src": "#141414"
-                },
-                {
-                    "id": 8,
-                    "src": "#FF0000"
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
-            "title": "Вечернее платье",
-            "sizes": "42-50",
-            "price": 1365,
-            "category": 0,
-            "sale": false,
-            "color": [
-                {
-                    "id": 1,
-                    "src": "#73A39D"
-                },
-                {
-                    "id": 2,
-                    "src": "#84CC4C"
-                },
-                {
-                    "id": 3,
-                    "src": "#B5A8A1"
-                },
-                {
-                    "id": 4,
-                    "src": "#AB844A"
-                },
-                {
-                    "id": 5,
-                    "src": "#6977F0"
-                },
-                {
-                    "id": 6,
-                    "src": "#FFFFFF"
-                },
-                {
-                    "id": 7,
-                    "src": "#141414"
-                },
-                {
-                    "id": 8,
-                    "src": "#FF0000"
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
-            "title": "Вечернее платье",
-            "sizes": "42-50",
-            "price": 1365,
-            "category": 0,
-            "sale": false,
-            "color": [
-                {
-                    "id": 1,
-                    "src": "#73A39D"
-                },
-                {
-                    "id": 2,
-                    "src": "#84CC4C"
-                },
-                {
-                    "id": 3,
-                    "src": "#B5A8A1"
-                },
-                {
-                    "id": 4,
-                    "src": "#AB844A"
-                },
-                {
-                    "id": 5,
-                    "src": "#6977F0"
-                },
-                {
-                    "id": 6,
-                    "src": "#FFFFFF"
-                },
-                {
-                    "id": 7,
-                    "src": "#141414"
-                },
-                {
-                    "id": 8,
-                    "src": "#FF0000"
-                }
-            ]
-        },
-        {
-            "id": 4,
-            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
-            "title": "Вечернее платье",
-            "sizes": "42-50",
-            "price": 1365,
-            "category": 0,
-            "sale": true,
-            "color": [
-                {
-                    "id": 1,
-                    "src": "#73A39D"
-                },
-                {
-                    "id": 2,
-                    "src": "#84CC4C"
-                },
-                {
-                    "id": 3,
-                    "src": "#B5A8A1"
-                },
-                {
-                    "id": 4,
-                    "src": "#AB844A"
-                },
-                {
-                    "id": 5,
-                    "src": "#6977F0"
-                },
-                {
-                    "id": 6,
-                    "src": "#FFFFFF"
-                },
-                {
-                    "id": 7,
-                    "src": "#141414"
-                },
-                {
-                    "id": 8,
-                    "src": "#FF0000"
-                }
-            ]
-        },
-        {
-            "id": 5,
-            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
-            "title": "Вечернее платье",
-            "sizes": "42-50",
-            "price": 1365,
-            "category": 0,
-            "sale": true,
-            "color": [
-                {
-                    "id": 1,
-                    "src": "#73A39D"
-                },
-                {
-                    "id": 2,
-                    "src": "#84CC4C"
-                },
-                {
-                    "id": 3,
-                    "src": "#B5A8A1"
-                },
-                {
-                    "id": 4,
-                    "src": "#AB844A"
-                },
-                {
-                    "id": 5,
-                    "src": "#6977F0"
-                },
-                {
-                    "id": 6,
-                    "src": "#FFFFFF"
-                },
-                {
-                    "id": 7,
-                    "src": "#141414"
-                },
-                {
-                    "id": 8,
-                    "src": "#FF0000"
-                }
-            ]
-        },
-        {
-            "id": 4,
-            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
-            "title": "Вечернее платье",
-            "sizes": "42-50",
-            "price": 1365,
-            "category": 0,
-            "color": [
-                {
-                    "id": 1,
-                    "src": "#73A39D"
-                },
-                {
-                    "id": 2,
-                    "src": "#84CC4C"
-                },
-                {
-                    "id": 3,
-                    "src": "#B5A8A1"
-                },
-                {
-                    "id": 4,
-                    "src": "#AB844A"
-                },
-                {
-                    "id": 5,
-                    "src": "#6977F0"
-                },
-                {
-                    "id": 6,
-                    "src": "#FFFFFF"
-                },
-                {
-                    "id": 7,
-                    "src": "#141414"
-                },
-                {
-                    "id": 8,
-                    "src": "#FF0000"
-                }
-            ]
-        },
-        {
-            "id": 5,
-            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
-            "title": "Вечернее платье",
-            "sizes": "42-50",
-            "price": 1365,
-            "category": 0,
-            "sale": false,
-            "color": [
-                {
-                    "id": 1,
-                    "src": "#73A39D"
-                },
-                {
-                    "id": 2,
-                    "src": "#84CC4C"
-                },
-                {
-                    "id": 3,
-                    "src": "#B5A8A1"
-                },
-                {
-                    "id": 4,
-                    "src": "#AB844A"
-                },
-                {
-                    "id": 5,
-                    "src": "#6977F0"
-                },
-                {
-                    "id": 6,
-                    "src": "#FFFFFF"
-                },
-                {
-                    "id": 7,
-                    "src": "#141414"
-                },
-                {
-                    "id": 8,
-                    "src": "#FF0000"
-                }
-            ]
-        }
-    ],
-    "users": [
-        {
-            "id": 0,
-            "phone": "996707040578"
         }
     ],
     "inews": [
@@ -1274,46 +454,1208 @@
             "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue.Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis"
         }
     ],
+    "summer2020": [
+        {
+            "id": 1,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "summer2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 2,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/4.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "summer2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 3,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "summer2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 4,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "summer2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 5,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "summer2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 6,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "summer2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 7,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "summer2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 8,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "summer2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 9,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "summer2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 10,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "summer2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 11,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "summer2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 12,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "summer2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 13,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/1.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "summer2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 14,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/4.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "summer2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 15,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/3.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "summer2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 16,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/2.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "summer2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 17,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/1.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "summer2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        }
+    ],
+    "winter2020": [
+        {
+            "id": 1,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "winter2020",
+            "salePrice": 2700,
+            "articul": "Платье PL984/dakota",
+            "sale": "50%",
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 2,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/4.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "winter2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 3,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "winter2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 4,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "winter2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 5,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "winter2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 6,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "winter2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 7,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "winter2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 8,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "winter2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 9,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "winter2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 10,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/2.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "winter2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 11,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/1.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "winter2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 12,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/4.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "winter2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 13,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "winter2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 14,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "winter2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 15,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/2.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "winter2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        }
+    ],
+    "autumm2020": [
+        {
+            "id": 1,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "autumm2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 2,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/4.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "autumm2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 3,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "autumm2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 4,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "autumm2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 5,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "autumm2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 6,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "autumm2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 7,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "autumm2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 8,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "autumm2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 9,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/6.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "autumm2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 10,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/2.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "autumm2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 11,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/1.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "autumm2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 12,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/4.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "autumm2020",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        }
+    ],
+    "new": [
+        {
+            "id": 1,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/leto2.png",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "new",
+            "articul": "Платье PL984/dakota",
+            "salePrice": 2700,
+            "sale": "-50%",
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 2,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/leto1.png",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "new",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 3,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "new",
+            "articul": "Платье PL984/dakota",
+            "salePrice": 2700,
+            "sale": "-50%",
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 4,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/4.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "new",
+            "articul": "Платье PL984/dakota",
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 5,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/2.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "new",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 6,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/leto9.png",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "new",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 7,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/leto8.png",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "new",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 8,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/leto3.png",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "new",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 9,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "new",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 10,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "new",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 11,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "new",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        },
+        {
+            "id": 12,
+            "imageUrl": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/5.jpg",
+            "title": "Вечернее платье",
+            "sizes": "42-50",
+            "price": 1365,
+            "category": "new",
+            "articul": "Платье PL984/dakota",
+            "sale": false,
+            "color": [
+                "#73A39D",
+                "#84CC4C",
+                "#B5A8A1",
+                "#AB844A",
+                "#6977F0",
+                "#FFFFFF",
+                "#141414",
+                "#FF0000"
+            ]
+        }
+    ],
     "collection": [
         {
             "id": 1,
             "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/с1.jpg",
-            "title": "Коллекция лето"
+            "title": "Коллекция лето 2020",
+            "category": "summer2020"
         },
         {
             "id": 2,
             "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/с2.jpg",
-            "title": "Коллекция зима"
+            "title": "Коллекция лето 2020",
+            "category": "winter2020"
         },
         {
             "id": 3,
             "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/с3.jpg",
-            "title": "Коллекция лето"
+            "title": "Коллекция осень 2020",
+            "category": "autumm2020"
         },
         {
             "id": 4,
             "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/с4.jpg",
-            "title": "Коллекция лето"
+            "title": "Коллекция зима 2020",
+            "collection": "summer"
         },
         {
             "id": 5,
             "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/с2.jpg",
-            "title": "Коллекция лето"
+            "title": "Для выезда на природу",
+            "collection": "summer"
         },
         {
             "id": 6,
             "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/с3.jpg",
-            "title": "Коллекция лето"
+            "title": "Платья",
+            "collection": "summer"
         },
         {
             "id": 7,
             "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/с1.jpg",
-            "title": "Коллекция лето"
+            "title": "Платья",
+            "collection": "summer"
         },
         {
             "id": 8,
             "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/с4.jpg",
-            "title": "Коллекция лето"
+            "title": "Юбки",
+            "collection": "summer"
+        },
+        {
+            "id": 9,
+            "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/с2.jpg",
+            "title": "Пальто",
+            "collection": "summer"
+        },
+        {
+            "id": 10,
+            "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/с3.jpg",
+            "title": "Лифоны",
+            "collection": "summer"
+        },
+        {
+            "id": 11,
+            "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/с1.jpg",
+            "title": "Кардиган",
+            "collection": "summer"
+        },
+        {
+            "id": 12,
+            "image": "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/с4.jpg",
+            "title": "Кофта",
+            "collection": "summer"
         }
     ]
 }

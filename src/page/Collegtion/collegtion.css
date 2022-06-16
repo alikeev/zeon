@@ -12,8 +12,9 @@
 
 
 .coll_img_title {
-    bottom: 48px;
+    bottom: 30px;
     left: 50%;
+    text-align: center;
     transform: translate(-50%, -50%);
     position: absolute;
     font-weight: 500;
@@ -27,6 +28,7 @@
     flex-direction: column;
     position: relative;
     cursor: pointer;
+    margin-bottom: 8px;
 
 }
 
@@ -60,4 +62,36 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+}
+
+.collecPage {
+    background: #ECECEC;
+
+}
+
+.title_collection {
+    padding: 32px 0px 18px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #393939;
+}
+
+.pagination {
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 8px;
+
+}
+
+.card_item {
+    background-color: #fff;
+}
+
+.collectionCard {
+    margin-bottom: 18px;
+}
+
+.pag {
+    margin-top: 8px;
 }

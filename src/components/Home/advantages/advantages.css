@@ -1,0 +1,34 @@
+.advantages__inner {
+    display: flex;
+    column-gap: 8px;
+    margin-bottom: 50px;
+}
+
+.advantages__item {
+    width: 286px;
+    height: 248px;
+    padding: 32px 12px 0px 12px;
+    background: #FFFFFF;
+    text-align: center;
+}
+
+.advantages__img {
+    margin-bottom: 35px;
+
+}
+
+.advantages__title {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #393939;
+    padding-bottom: 10px;
+}
+
+.advantages__text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 175%;
+    letter-spacing: 0.04em;
+    color: #979797;
+}

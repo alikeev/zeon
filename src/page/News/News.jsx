@@ -1,7 +1,6 @@
 import axios from 'axios';
-import React, { useEffect, useRef, useState } from 'react';
-import { BrowserRouter } from 'react-router-dom'
-import { Routes, Route, Link } from "react-router-dom";
+import React, { useEffect, useState } from 'react';
+import { Link } from "react-router-dom";
 import "./news.css"
 
 
@@ -45,10 +44,10 @@ function News() {
     return (
         <div className="news">
             <div className="news_line">
-                <ul>
-                    <Link to={"/"} className="footer__link" >Главная / </Link>
-                    <Link to={"/News"} className="footer__link" >Новости</Link>
-                </ul>
+
+                <Link to={"/"} className="footer__link" >Главная / </Link>
+                <Link to={"/News"} className="footer__link" >Новости</Link>
+
             </div>
             <div className="inner_container">
                 <h1>Новости</h1>

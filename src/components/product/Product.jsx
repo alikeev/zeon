@@ -3,16 +3,24 @@ import { CustomContext } from "../../Context";
 import "./product.css"
 import { useParams, Link, NavLink } from "react-router-dom";
 import axios from "axios";
-
+import basketIcon from '../../img/basket_icon.svg'
+import blackHeard from '../../img/black_header.svg'
 
 const Product = () => {
     const params = useParams();
     const [color, setColor] = useState('')
-    const [product, setProduct] = React.useState({});
-    const { media, addCart } = useContext(CustomContext)
+    const [product, setProduct] = useState({});
+    const { media, addCart, addFav } = useContext(CustomContext)
+    const [butActive, setButActive] = useState(false)
+
+    const sendTo = (id, color, price, imageUrl, title, category, sizes) => {
+        addCart(id, color, price, imageUrl, title, category, sizes);
+        setButActive(true);
+    };
+
 
     React.useEffect(() => {
-        axios(`http://localhost:3000/media/${params.id}`)
+        axios(`http://localhost:3000/${params.category}/${params.id}`)
             .then(({ data }) => {
                 setProduct(data)
                 setColor(data.color[0])
@@ -23,13 +31,13 @@ const Product = () => {
         <>
             <div className="container">
                 <div className="slick_title">
-                    <ul>
-                        <Link to={"/"} className="footer__link" >Главная </Link>
-                        /
-                        <NavLink to={"/"} className="footer__link" >{product.category} </NavLink>
-                        /
-                        <p className="product__link">{product.title}</p>
-                    </ul>
+
+                    <Link to={"/"} className="footer__link" >Главная </Link>
+                    /
+                    <NavLink to={"/"} className="footer__link" >{product.category} </NavLink>
+                    /
+                    <p className="product__link">{product.title}</p>
+
                 </div>
             </div>
             <div className="product">
@@ -71,16 +79,34 @@ const Product = () => {
                                     <li className="product_size">Размерный ряд: {product.sizes}</li>
                                     <li className="product_size">Состав ткани: {product.sizes}</li>
                                 </div>
-                                <button type="button" className="button-b" onClick={() => addCart({
-                                    id: product.id,
-                                    title: product.title,
-                                    imageUrl: product.imageUrl,
-                                    sizes: product.sizes,
-                                    color,
-                                    price: product.price,
-                                    category: product.category
+                                <div className="buttons">
+                                    {butActive ? (
+                                        <Link to="/Korzina" >
+                                            <button className="button-b" ><img width={20} src={basketIcon} alt="basket" /> Перейти в корзину</button>
+                                        </Link>
+                                    ) : (
+                                        <button className="button-b" onClick={() => sendTo({
+                                            id: product.id,
+                                            title: product.title,
+                                            imageUrl: product.imageUrl,
+                                            sizes: product.sizes,
+                                            color,
+                                            price: product.price,
+                                            category: product.category
 
-                                })}>Добавить в корзину</button>
+                                        })}> <img width={20} src={basketIcon} alt="" /> Добавить в корзину</button>
+                                    )}
+
+                                    <button type="button" className="button-f" onClick={() => addFav({
+                                        id: product.id,
+                                        title: product.title,
+                                        imageUrl: product.imageUrl,
+                                        sizes: product.sizes,
+                                        color,
+                                        price: product.price,
+                                        category: product.category
+                                    })}> <img width={23} src={blackHeard} alt="" /> </button>
+                                </div>
                             </div>
                         </div>
                         <div className="product_list-img">
@@ -99,7 +125,7 @@ const Product = () => {
                                 media.filter((item) => {
                                     return item.category == product.category && item.id !== product.id
                                 }).slice(0, 5).map((item) => (
-                                    <div key={item.id} className="similar_inner_block">
+                                    <Link to={params.id}>   <div key={item.id} className="similar_inner_block">
                                         <img className="similar_inner_img" src={item.imageUrl} alt="" />
                                         <div className="similar_inner-title">{item.price} p</div>
                                         <div className="similar_title">{item.title} </div>
@@ -111,12 +137,7 @@ const Product = () => {
                                                 }}></div>
                                             ))
                                         }
-
-
-
-
-
-                                    </div>
+                                    </div></Link>
                                 ))
                             }
                         </div>

@@ -5,7 +5,7 @@ import App from './style.css';
 const Slick = () => {
     return (
         <div className="slick_title">
-            <ul>
+            <ul className="to">
                 <Link to={"/"} className="footer__link" >Главная / </Link>
                 <Link to={"/About"} className="footer__link" >  О нас</Link>
             </ul>
