@@ -1,0 +1,9 @@
+.result {
+    display: flex;
+    column-gap: 6px;
+    flex-wrap: wrap;
+}
+
+.resultpage {
+    background: #ECECEC;
+}

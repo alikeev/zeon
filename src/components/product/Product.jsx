@@ -5,16 +5,18 @@ import { useParams, Link, NavLink } from "react-router-dom";
 import axios from "axios";
 import basketIcon from '../../img/basket_icon.svg'
 import blackHeard from '../../img/black_header.svg'
+import activeblackheard from '../../img/activeblackheard.svg'
+import Sims from "../../page/Simproducts/sims";
 
 const Product = () => {
     const params = useParams();
     const [color, setColor] = useState('')
     const [product, setProduct] = useState({});
-    const { media, addCart, addFav } = useContext(CustomContext)
+    const { media, addCart, addFav, isFav } = useContext(CustomContext)
     const [butActive, setButActive] = useState(false)
 
-    const sendTo = (id, color, price, imageUrl, title, category, sizes) => {
-        addCart(id, color, price, imageUrl, title, category, sizes);
+    const sendTo = (id, color, price, imageUrl, title, category, sizes, amount, salePrice) => {
+        addCart(id, color, price, imageUrl, title, category, sizes, amount, salePrice);
         setButActive(true);
     };
 
@@ -32,11 +34,13 @@ const Product = () => {
             <div className="container">
                 <div className="slick_title">
 
-                    <Link to={"/"} className="footer__link" >Главная </Link>
+                    <Link to={"/"} className="footer__link" > Главная </Link>
                     /
-                    <NavLink to={"/"} className="footer__link" >{product.category} </NavLink>
+                    <Link to={"/Collegtion"} className="footer__link"> Коллекции </Link>
                     /
-                    <p className="product__link">{product.title}</p>
+                    <NavLink to={"/"} className="footer__link" > {product.category} </NavLink>
+                    /
+                    <p className="product__link">  {product.title}  </p>
 
                 </div>
             </div>
@@ -72,12 +76,12 @@ const Product = () => {
                                     {product.cardinfo}
                                 </div>
                                 <div className="product_sizes">
-                                    <li className="product_size">Размерный ряд: {product.sizes}</li>
-                                    <li className="product_size">Состав ткани: {product.sizes}</li>
+                                    <li className="product_size">Размерный ряд:  {product.sizes}</li>
+                                    <li className="product_size">Состав ткани:  {product.compound}</li>
                                 </div>
                                 <div className="product_sizes">
-                                    <li className="product_size">Размерный ряд: {product.sizes}</li>
-                                    <li className="product_size">Состав ткани: {product.sizes}</li>
+                                    <li className="product_size">Количество в линейке:  {product.count}</li>
+                                    <li className="product_size">Материал:  {product.compound}</li>
                                 </div>
                                 <div className="buttons">
                                     {butActive ? (
@@ -91,6 +95,8 @@ const Product = () => {
                                             imageUrl: product.imageUrl,
                                             sizes: product.sizes,
                                             color,
+                                            salePrice: product.salePrice,
+                                            amount: product.amount,
                                             price: product.price,
                                             category: product.category
 
@@ -102,10 +108,10 @@ const Product = () => {
                                         title: product.title,
                                         imageUrl: product.imageUrl,
                                         sizes: product.sizes,
-                                        color,
+                                        color: product.color,
                                         price: product.price,
                                         category: product.category
-                                    })}> <img width={23} src={blackHeard} alt="" /> </button>
+                                    })}> <img width={23} src={isFav.length > 0 ? activeblackheard : blackHeard} alt="" /> </button>
                                 </div>
                             </div>
                         </div>
@@ -124,20 +130,8 @@ const Product = () => {
                             {
                                 media.filter((item) => {
                                     return item.category == product.category && item.id !== product.id
-                                }).slice(0, 5).map((item) => (
-                                    <Link to={params.id}>   <div key={item.id} className="similar_inner_block">
-                                        <img className="similar_inner_img" src={item.imageUrl} alt="" />
-                                        <div className="similar_inner-title">{item.price} p</div>
-                                        <div className="similar_title">{item.title} </div>
-                                        <div className="similar_size">Размер: {item.sizes}</div>
-                                        {
-                                            item.color.map((it) => (
-                                                <div key={it.id} className="similar_color" style={{
-                                                    backgroundColor: it.src
-                                                }}></div>
-                                            ))
-                                        }
-                                    </div></Link>
+                                }).slice(0, 5).map((items) => (
+                                    <Sims key={items.id} id={items.id} title={items.title} price={items.price} imageUrl={items.imageUrl} color={items.color} sizes={items.sizes} category={items.category} salePrice={items.salePrice} sale={items.sale} />
                                 ))
                             }
                         </div>

@@ -1,13 +1,22 @@
 import React from "react";
-import { Routes, Route, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import "./style.css"
 import logosvg from '../../img/vector.svg'
-
+import headerHeard from '../../img/header_heard.svg'
+import basket from '../../img/basket.svg'
+import ActiveHeard from '../../img/activeheard.svg'
+import basketin from '../../img/basketin.svg'
+import { useContext } from "react";
+import { CustomContext } from "../../Context";
+import SearchBar from "../Search/SearchPage";
 function Header() {
+
+    const { cart, getFav, fromToFav, isFav } = useContext(CustomContext)
     return (
         <header className="header">
-            <div className="container">
-                <div className="header__inner">
+
+            <div className="header__inner">
+                <div className="container">
                     <div className="header__top">
                         <nav>
                             <ul className="header__list">
@@ -28,20 +37,29 @@ function Header() {
                             </a>
                         </div>
                     </div>
-                    <div className="header__line"></div>
-                    <div className="header__content">
-                        <Link to={'/'} >
-                            <img className="header__content_logo" src={logosvg} alt="" />
-                        </Link>
-                        <input className="search" type="text" placeholder="Поиск" />
-                        <div className="header_basket">
-                            <Link to={"/Favorites"} className="header__link" >Избранный</Link>
-                            <Link to={"/Korzina"} className="header__link" >Корзина</Link>
+                </div>
+                <div className="header__line">
+                    <div className="container">
+                        <div className="header__content">
+                            <Link to={'/'} >
+                                <img className="header__content_logo" src={logosvg} alt="" />
+                            </Link>
+                            <SearchBar />
+                            <div className="header_basket">
+                                <Link to={"/Favorit"} className="header__link" >
+                                    <img src={getFav.length ? ActiveHeard : headerHeard} alt="" /> Избранное</Link>
+                                <div className="line_bor"></div>
+                                <Link to={"/Korzina"} className="header__link" >
+                                    <img src={cart.length ? basketin : basket} alt="" />
+                                    <span>Корзина</span>
+
+                                </Link>
+                            </div>
                         </div>
                     </div>
-                    <div className="header__line"></div>
                 </div>
             </div>
+
         </header>
 
 

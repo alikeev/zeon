@@ -29,7 +29,7 @@ const Footer = () => {
 
                             </li>
                             <li className="footer__item">
-                                <Link to={"/News"} className="footer__link" >Помощь</Link>
+                                <Link to={"/Helppage"} className="footer__link" >Помощь</Link>
 
                             </li>
                         </ul>

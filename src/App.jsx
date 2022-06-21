@@ -12,9 +12,9 @@ import Korzina from './components/Home/Korzina/Korzina';
 import Favorit from './components/Home/favorit/Favorit';
 import { CollecPage } from './page/Collegtion/collection_page/collecPage';
 import { store } from './redux';
-
-
-
+import { Helppage } from './page/Helppage/Helppage';
+import "antd/dist/antd.css";
+import ResultPage from './components/Search/ResultPage';
 
 
 function App() {
@@ -30,6 +30,8 @@ function App() {
         <Route path='/Korzina' element={<Korzina />} />
         <Route path='/Favorit' element={<Favorit />} />
         <Route path='/CollecPage/:category/:id' element={<CollecPage />} />
+        <Route path='/Helppage' element={<Helppage />} />
+        <Route path='/result/:name' element={<ResultPage />} />
       </Routes>
       <Footer />
     </Provider>

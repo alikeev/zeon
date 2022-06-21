@@ -1,0 +1,31 @@
+.helppage {
+    background: #ECECEC;
+}
+
+.helppage_item {
+    padding-top: 11px;
+    display: flex;
+    padding-bottom: 72px;
+}
+
+.Accord {
+    padding: 0 0 0 24px;
+    width: 100%;
+}
+
+.br {
+    margin: 6px 0px;
+}
+
+.accordion_title {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    margin-bottom: 15px;
+    color: #393939;
+}
+
+.css-sh22l5-MuiButtonBase-root-MuiAccordionSummary-root {
+    text-shadow: none;
+    color: red;
+}

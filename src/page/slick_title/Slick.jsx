@@ -1,6 +1,6 @@
 import React from "react";
-import { Routes, Route, Link } from "react-router-dom";
-import App from './style.css';
+import { Link } from "react-router-dom";
+import './style.css';
 
 const Slick = () => {
     return (

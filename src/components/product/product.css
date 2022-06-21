@@ -54,6 +54,8 @@
 .product__link {
     display: inline-block;
     color: #979797;
+    margin: 0;
+    padding: 0;
 }
 
 .product_color {
@@ -131,9 +133,27 @@
     width: 420px;
     padding: 12px 0px;
     background: #1D1D1B;
-    text-align: center;
-    margin-top: 7px;
+    justify-content: center;
+
     color: #fff;
+    display: flex;
+    align-items: center;
+
+}
+
+.button-b img {
+    margin-right: 10px;
+}
+
+.button-f {
+    background: #1D1D1B;
+    padding: 11px 10px;
+}
+
+.buttons {
+    display: flex;
+    column-gap: 8px;
+    margin-top: 7px;
 }
 
 .product_s_img {
@@ -173,4 +193,18 @@
     display: flex;
     column-gap: 8px;
     flex-wrap: wrap;
+    padding-bottom: 60px;
+}
+
+.similar_colors {
+    display: inline-block;
+    width: 8px;
+    opacity: 0.47;
+    border-radius: 4px;
+    height: 8px;
+}
+
+.similar_colors+.similar_colors {
+    margin-left: 8px;
+
 }

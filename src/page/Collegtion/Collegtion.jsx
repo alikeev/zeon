@@ -40,9 +40,9 @@ const Collegtion = () => {
                                 <img className="coll_img-g" src={item.image} alt="" />
                                 <p className="coll_img_title">{item.title}</p>
                                 <div className="coll__inner">
-                                    <Link to={`/collecPage/${item.category}/${item.id}`}>
+                                    <NavLink onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })} to={`/collecPage/${item.category}/${item.id}`}>
                                         <div className="coll__link" >Смотреть все</div>
-                                    </Link>
+                                    </NavLink>
 
                                 </div>
                             </div>

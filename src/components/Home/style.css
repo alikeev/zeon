@@ -35,6 +35,12 @@
 
 }
 
+.card:hover .card_header {
+
+    background: url("http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/heard.svg") no-repeat;
+
+}
+
 .card_item {
     padding: 0px 6px 10px 6px;
 

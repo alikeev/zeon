@@ -1,18 +1,39 @@
 import React, { useContext } from "react";
+import { useEffect } from "react";
 import { Link } from "react-router-dom";
+import { CustomContext } from "../../Context";
 
 
 const Best = ({ title, price, color, sizes, imageUrl, id, salePrice, category, sale }) => {
-    const [heard, setHeard] = React.useState(false)
-    const onClickHeader = () => {
-        setHeard(!heard);
-    }
+    const { fromToFav, isFav } = useContext(CustomContext)
+    const [heard, setHeard] = React.useState()
+    useEffect(() => {
+        setHeard(isFav(id))
+    }, [])
     let p = "p"
 
     return (
         <>
             <div className="card">
-                <img onClick={onClickHeader} className="card_header" src={heard ? "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/redheard.svg" : "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/heard.svg"} alt="" />
+
+                <div className="card_header" onClick={() => {
+                    fromToFav({
+                        id: id,
+                        title: title,
+                        imageUrl: imageUrl,
+                        sizes: sizes,
+                        color: color,
+                        price: price,
+                        category: category
+                    }); setHeard(isFav(id))
+                }} style={heard ?
+                    { background: `url("http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/redheard.svg")` } : {
+
+                        '&:hover': {
+                            background: `url("http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/heard.svg")`,
+                        },
+                    }
+                } ></div>
                 <img width={51} className="sale_card_img" src={salePrice ? "http://kg.ronishop.ru/test/tilek/tilek_lichnye/santes/img/sale.svg" : null} alt="" />
                 <div>{salePrice ? <><span className="sale_icon">{sale}</span></> : null}</div>
 

@@ -38,9 +38,6 @@ function Home() {
             })
     }, [limit])
 
-    function s() {
-
-    }
     return (
         <div className="home">
             <div className="container">
@@ -63,7 +60,7 @@ function Home() {
                                 <img className="coll_img-g" src={item.image} alt="" />
                                 <p className="coll_img_title">{item.title}</p>
                                 <div className="coll__inner">
-                                    <Link to={`/collecPage/${item.category}/${item.id}`}>
+                                    <Link onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })} to={`/collecPage/${item.category}/${item.id}`}>
                                         <div className="coll__link" >Смотреть все</div>
                                     </Link>
 
@@ -72,7 +69,7 @@ function Home() {
                         ))
 
                     }
-                    < button className="click_btn" onClick={s} >ЕЩЕ</button>
+                    < button className="click_btn" onClick={collec ? collec.slice(0, 8) : null}  >ЕЩЕ</button>
                 </div>
                 <Modal active={modalActive} setActive={setModalActive} />
                 <div className="hooks">

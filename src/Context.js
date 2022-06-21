@@ -1,10 +1,8 @@
 import axios from "axios";
 import React, { createContext, useState, useEffect } from "react";
-
 export const CustomContext = createContext();
-
-
 export const Context = (prors) => {
+    const [sale, setSale] = useState([]);
     const [media, setMedia] = useState([]);
     const [collec, setCollec] = useState([]);
     useEffect(() => {
@@ -14,16 +12,33 @@ export const Context = (prors) => {
         axios(`http://localhost:3000/collection/`)
             .then(({ data }) => setCollec(data)
             )
+        axios(`http://localhost:3000/sales/`)
+            .then(({ data }) => setSale(data)
+            )
     }, [])
 
-
-    const [isFav, setIsFav] = useState([])
-    const addFav = (product) => {
-        let idx = isFav.findIndex((item) => item.id == product.id && item.color == product.color)
-        setIsFav([...isFav, product])
+    //Избранное //
+    const fromToFav = (data) => {
+        let arr = JSON.parse(localStorage.getItem('fav')) || []
+        let ids = arr.map(e => e.id)
+        const bool = ids.includes(data.id)
+        if (bool) {
+            arr = arr.filter(e => e.id != data.id)
+        } else {
+            arr.push(data)
+        }
+        localStorage.setItem('fav', JSON.stringify(arr))
     }
-
-
+    const isFav = (id) => {
+        const arr = JSON.parse(localStorage.getItem('fav')) || []
+        const bool = arr.map(e => e.id).includes(id)
+        return bool
+    }
+    const getFav = () => {
+        return JSON.parse(localStorage.getItem('fav'))
+    }
+    //Избранноe //
+    //Корзина 
     const [cart, setCart] = useState([])
 
     const addCart = (product) => {
@@ -57,16 +72,16 @@ export const Context = (prors) => {
         }
     }, [])
 
-
-
+    //Корзина 
 
     const value = {
         media,
         isFav,
-        setIsFav,
         setMedia,
+        fromToFav,
         cart,
-        addFav,
+        sale,
+        getFav,
         setCart,
         addCart,
         deleteCart,
